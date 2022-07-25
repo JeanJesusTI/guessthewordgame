@@ -1,0 +1,31 @@
+
+
+.start{
+    display: block;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+p{
+    color: #FF0;
+    font-size: 20px;
+}
+
+button{
+    background-color: #1646a0;
+    font-size: 1.5rem;
+    font-family: Helvetica, sans-serif sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 10px 45px;
+    border-color: #FFF;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color:#082c6d;
+}
