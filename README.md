@@ -17,7 +17,8 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 <br/>
 <p align="center">When you miss all the 10 chances, you'll be redirected to GameOver page, where you can see you score, and try the game again!</p><br/>
 <br/>
-![image](https://user-images.githubusercontent.com/31626353/180870878-92b215a1-1ebe-4606-b917-534eb3981a08.png)
+<img src="https://user-images.githubusercontent.com/31626353/180870878-92b215a1-1ebe-4606-b917-534eb3981a08.png" />
+
 
 
 
