@@ -4,7 +4,7 @@ This is a simple game created using React JS, in this project I tried to use jus
 we could upgrade this project using new libs, but for knowledge purposes and practice  I kept this way.
 
 ## Screens
-The game start in an initial page where you should click in the button to start the game:<br/>
+<p align="center">The game start in an initial page where you should click in the button to start the game:</p><br/>
 
 ![image](https://user-images.githubusercontent.com/31626353/180870736-bed7c678-2dd8-4136-8437-bd52ea902dcc.png)
 <br/>
