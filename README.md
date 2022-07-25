@@ -7,15 +7,15 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 <br/>
 <p align="center">The game start in an initial page where you should click in the button to start the game:</p>
 
-![image](https://user-images.githubusercontent.com/31626353/180870736-bed7c678-2dd8-4136-8437-bd52ea902dcc.png)
+![image](https://user-images.githubusercontent.com/31626353/180871495-d7c4886d-8e6c-402d-bd18-b6deac76ac64.png)
 <br/>
 <br/>
-When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, <b>you have only 3 guesses!</b><br/>
+<p align="center">When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, <b>you have only 3 guesses!</p></b><br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/31626353/180869705-cad33b77-85e1-4512-a14c-e15c08726b35.png)
 <br/>
 <br/>
-When you miss all the 10 chances, you'll be redirected to GameOver page, where you can see you score, and try the game again!<br/>
+<p align="center">When you miss all the 10 chances, you'll be redirected to GameOver page, where you can see you score, and try the game again!</p><br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/31626353/180870878-92b215a1-1ebe-4606-b917-534eb3981a08.png)
 
