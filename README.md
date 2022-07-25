@@ -10,7 +10,7 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 ![image](https://user-images.githubusercontent.com/31626353/180871495-d7c4886d-8e6c-402d-bd18-b6deac76ac64.png)
 <br/>
 <br/>
-<p align="center">When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, you have only 3 guesses!</p>
+When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, you have only 3 guesses!
 ![image](https://user-images.githubusercontent.com/31626353/180869705-cad33b77-85e1-4512-a14c-e15c08726b35.png)
 <br/>
 <br/>
