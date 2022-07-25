@@ -12,7 +12,7 @@ When the game starts you need to choose some words and then click in Send to ver
 ![image](https://user-images.githubusercontent.com/31626353/180869705-cad33b77-85e1-4512-a14c-e15c08726b35.png)
 
 When you miss all the 10 chances, you'll be redirected to GameOver page, where you can see you score, and try the game again!<br/>
-![image](https://user-images.githubusercontent.com/31626353/180869920-f7abdafe-1335-4ef3-be2f-09bb7a28bf73.png)
+![image](https://user-images.githubusercontent.com/31626353/180870878-92b215a1-1ebe-4606-b917-534eb3981a08.png)
 
 
 
