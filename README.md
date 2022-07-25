@@ -7,7 +7,8 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 <br/>
 <p align="center">The game start in an initial page where you should click in the button to start the game:</p>
 
-![image](https://user-images.githubusercontent.com/31626353/180871495-d7c4886d-8e6c-402d-bd18-b6deac76ac64.png)
+![image](https://user-images.githubusercontent.com/31626353/180873234-653b2113-b5ef-4aca-bb29-b580fd247c8a.png)
+
 <br/>
 <br/>
 <p align="center">When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, <b>you only have 3 guesses</b>!</p>
