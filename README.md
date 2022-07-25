@@ -5,7 +5,7 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 
 ## Screens
 <br/>
-<p align="center">The game start in an initial page where you should click in the button to start the game:</p>
+<p align="center">The game start on a home page where you should click in the button to start the game:</p>
 
 ![image](https://user-images.githubusercontent.com/31626353/180873234-653b2113-b5ef-4aca-bb29-b580fd247c8a.png)
 
