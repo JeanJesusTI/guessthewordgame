@@ -6,7 +6,7 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 ## Screens
 The game start in an initial page where you should click in the button to start the game:<br/>
 
-![image](https://user-images.githubusercontent.com/31626353/180870609-4215eff8-1e8b-4336-a767-ee5b053d5eee.png)
+![image](https://user-images.githubusercontent.com/31626353/180870736-bed7c678-2dd8-4136-8437-bd52ea902dcc.png)
 
 When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, <b>you have only 3 guesses!</b><br/>
 ![image](https://user-images.githubusercontent.com/31626353/180869705-cad33b77-85e1-4512-a14c-e15c08726b35.png)
