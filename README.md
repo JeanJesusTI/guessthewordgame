@@ -10,10 +10,9 @@ we could upgrade this project using new libs, but for knowledge purposes and pra
 ![image](https://user-images.githubusercontent.com/31626353/180871495-d7c4886d-8e6c-402d-bd18-b6deac76ac64.png)
 <br/>
 <br/>
-<p align="center">When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, you have only 3 guesses!</p>
+<p align="center">When the game starts you need to choose some words and then click in Send to verify if you choose the correct word, <b>you only have 3 guesses</b>!</p>
 <img src="https://user-images.githubusercontent.com/31626353/180869705-cad33b77-85e1-4512-a14c-e15c08726b35.png"/>
 
-![image](https://user-images.githubusercontent.com/31626353/180869705-cad33b77-85e1-4512-a14c-e15c08726b35.png)
 <br/>
 <br/>
 <p align="center">When you miss all the 10 chances, you'll be redirected to GameOver page, where you can see you score, and try the game again!</p><br/>
